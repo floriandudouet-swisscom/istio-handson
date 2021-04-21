@@ -29,7 +29,7 @@ kubectl label namespace default istio-injection=enabled
 
 Now all next steps are using the current Github and no longer the default Istio one.
 
-1. Clone the repository: https://github.com/fdhex/istio-handson.git
+1. Clone the repository: https://github.com/floriandudouet-swisscom/istio-handson.git
 2. Deploy bookinfo
 
 ```
